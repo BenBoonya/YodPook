@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921872285419",
+    "firebase_url": "https://yodpook-bf0f1.firebaseio.com",
+    "project_id": "yodpook-bf0f1",
+    "storage_bucket": "yodpook-bf0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921872285419:android:51ad69467db6dd63",
+        "android_client_info": {
+          "package_name": "com.yodpook.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921872285419-iai8mmnun7l5bi5ob86blbgj6stg84tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yodpook.android",
+            "certificate_hash": "9d2a54813fffd146ed0340d1277d8747d0eecda7"
+          }
+        },
+        {
+          "client_id": "921872285419-6qspv4n1aliauus9repvhvk96mj8vro7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOIgZDd6Bp61AYmQM4tYZzUqj4Lc8QIhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921872285419-6qspv4n1aliauus9repvhvk96mj8vro7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

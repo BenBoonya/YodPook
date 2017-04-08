@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YodPook</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_error">Error</string>
+    <string name="label_ok">Ok</string>
+    <string-array name="action_select_money_amount">
+        <item>500,000</item>
+        <item>1,000,000</item>
+        <item>1,500,000</item>
+        <item>2,000,000</item>
+        <item>2,500,000</item>
+        <item>3,000,000</item>
+        <item>3,500,000</item>
+        <item>4,000,000</item>
+        <item>4,500,000</item>
+        <item>5,000,000</item>
+    </string-array>
+
+    <string name="facebook_app_id">262207030908433</string>
+</resources>
